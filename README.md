@@ -1,5 +1,12 @@
 #  Mean and variance of a discrete  distribution
 
+Ex no:1
+
+Date:21/09/2024
+
+Name:**MUHAMMED AIMAN S**
+
+Register:**24901053**
 
 # Aim : 
 
